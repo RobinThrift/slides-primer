@@ -1,3 +1,5 @@
+[![Travis](https://img.shields.io/travis/RobinThrift/slides-primer.svg?maxAge=2592000?style=flat-square)]()
+
 # Slides Primer
 
 ## Setup & Run
