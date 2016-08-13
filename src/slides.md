@@ -64,7 +64,6 @@ function extractMeta() {
 --
 
 ```scss
-
 // AUTHOR INFO
 .reveal .author-info {
     position: relative;
